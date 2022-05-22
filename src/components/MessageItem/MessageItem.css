@@ -1,0 +1,22 @@
+.chat-message {
+    padding: 5px 10px 5px 10px;
+    width: 70%;
+    background-color: rgba(160, 160, 160, 0.521);
+    margin: 8px 0px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.chat-userMessage {
+    width: 70%;
+    background-color: rgba(160, 160, 160, 0.521);
+    margin: 8px 0px;
+    border-radius: 10px;
+    align-self: flex-end;
+}
+
+.message-login {
+    align-self: flex-start;
+    margin-bottom: 5px;
+}
